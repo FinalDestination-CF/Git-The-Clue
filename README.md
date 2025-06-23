@@ -37,4 +37,4 @@ You've more than earned the ending.
 
 ---
 
-**~ The Final Destination Team**
+~ The Final Destination Team
