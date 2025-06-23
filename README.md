@@ -31,4 +31,4 @@ You've more than earned the ending.
 
 ---
 
-*~ The Final Destination*
+**~ The Final Destination**
